@@ -6,7 +6,7 @@ namespace VirtualHomeJK
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hell o World!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
